@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+    for (int i=1; i<11; i++){
+    cout << i << "\t" << 2*i << "\t" << 3*i << "\t" << 4*i << "\t" << 5*i << "\t" << 6*i << "\t" << 7*i << "\t" << 8*i << "\t" <<9*i << "\t" << 10*i << endl;
+    }
+}
